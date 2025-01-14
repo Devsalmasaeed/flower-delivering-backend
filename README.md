@@ -28,42 +28,42 @@ A backend application for managing a flower delivery service, built with Node.js
 4. Set up environment variables
    . Create a .env file in the root directory.
    . Add the following variables
-       PORT=5000
-       MONGO_URI=mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority
+       - PORT=5000
+      -  MONGO_URI=mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority
 5. Start the development server
      ```bash
      npm run dev
 
-📚 API Endpoints
+## 📚 API Endpoints
 
-Root Endpoint
+- Root Endpoint
 
 GET /
-Response: Welcome message.
-Flower Routes
-GET /flowers
-Fetch all flowers.
-POST /flowers
-Add a new flower.
-PUT /flowers/:id
-Update an existing flower.
-DELETE /flowers/:id
-Delete a flower.
+- Response: Welcome message.
+- Flower Routes
+- GET /flowers
+- Fetch all flowers.
+- POST /flowers
+- Add a new flower.
+- PUT /flowers/:id
+- Update an existing flower.
+- DELETE /flowers/:id
+- Delete a flower.
 
-🌍 Deployment
-The backend is deployed on Render:(LIVE DEMO)[https://flower-delivery-backend.onrender.com/]
-Live API: (Flower Delivery Backend)[http://localhost:5000/api/flowers]
+## 🌍 Deployment
+The backend is deployed on Render:[LIVE DEMO](https://flower-delivery-backend.onrender.com/)
+Live API: [Flower Delivery Backend](http://localhost:5000/api/flowers)
 
-🛡️ Environment Variables
+## 🛡️ Environment Variables
 This project requires the following environment variables:
 
 PORT: 5000.
-MONGO_URI: (Connection string for MongoDB)[mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority].
+MONGO_URI: [Connection string for MongoDB](mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority).
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📧 Contact
+## 📧 Contact
 Author: Salma Saeed
 Email: sasaeed092@gmail.com
 GitHub: Devsalmasaeed     
