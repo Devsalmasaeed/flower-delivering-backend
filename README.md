@@ -51,14 +51,9 @@ GET /
 - Delete a flower.
 
 ## 🌍 Deployment
-The backend is deployed on Render:[LIVE DEMO](https://flower-delivery-backend.onrender.com/)
-Live API: [Flower Delivery Backend](http://localhost:5000/api/flowers)
+- The backend is deployed on Render:[LIVE DEMO](https://flower-delivery-backend.onrender.com/)
+- Live API: [Flower Delivery Backend](http://localhost:5000/api/flowers)
 
-## 🛡️ Environment Variables
-This project requires the following environment variables:
-
-PORT: 5000.
-MONGO_URI: [Connection string for MongoDB](mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority).
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
