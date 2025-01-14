@@ -29,8 +29,8 @@ A backend application for managing a flower delivery service, built with Node.js
    -  Create a .env file in the root directory.
    -  Add the following variables
        ```bash
-     PORT=5000
-     MONGO_URI=mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority
+     - PORT=5000
+     - MONGO_URI=mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority
 5. Start the development server
      ```bashm
      npm run dev
