@@ -26,9 +26,12 @@ A backend application for managing a flower delivery service, built with Node.js
    ```bash
     npm install
 4. Set up environment variables
-   ```bash
- - PORT=5000
- - MONGO_URI=mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&  w=majority
+   -  Create a .env file in the root directory.
+   -  Add the following variables
+      
+     - **PORT=5000**
+     - **MONGO_URI=mongodb+srv://saeedsalmaabdullahi:Salma2025@cluster0.qtvo1.mongodb.net/?retryWrites=true&w=majority**
+
 5. Start the development server
      ```bashm
      npm run dev
@@ -58,8 +61,8 @@ GET /
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📧 Contact
-Author: Salma Saeed
-Email: sasaeed092@gmail.com
-GitHub: Devsalmasaeed     
+- Author: Salma Saeed
+- Email: sasaeed092@gmail.com
+- GitHub: Devsalmasaeed     
 
 
