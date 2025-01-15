@@ -5,7 +5,7 @@ A backend application for managing a flower delivery service, built with Node.js
 
 ## 🚀 Features
 
-- Manage flower catalog (CRUD operations)
+- Manage flower catalog 
 - Handle customer orders
 - Connect with MongoDB for database operations
 - Built-in API routes for managing data
@@ -53,9 +53,9 @@ GET /
 - Delete a flower.
 
 ## 🌍 Deployment
-- The backend is deployed on Render:[LIVE DEMO](https://flower-delivery-backend.onrender.com/)
-- Live API: [Flower Delivery Backend](http://localhost:5000/api/flowers)
-- Live API II: [Users](http://localhost:5000/api/users)
+- Flower Delivery Backend:[LIVE DEMO](https://flower-delivery-backend.onrender.com/)
+- Live API: [Flowers api](http://localhost:5000/api/flowers)
+- Live API: [Users api](http://localhost:5000/api/users)
 
 
 ## 📜 License
